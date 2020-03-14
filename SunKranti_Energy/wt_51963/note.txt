@@ -1,0 +1,3 @@
+problems identified:
+1. logo positioning and creation
+2. loader not displaying if image is not loaded 
