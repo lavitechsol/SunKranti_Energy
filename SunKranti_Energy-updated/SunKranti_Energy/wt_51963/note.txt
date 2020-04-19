@@ -1,3 +1,28 @@
 problems identified:
 1. logo positioning and creation
 2. loader not displaying if image is not loaded 
+
+collapsible urls:
+
+https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-accordion.php
+https://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=accordion
+https://alligator.io/css/collapsible/
+https://www.jqueryscript.net/tags.php?/Collapsible%20Table/
+https://www.jqueryscript.net/demo/jQuery-Plugin-For-Expandable-Bootstrap-Table-Rows/
+https://codepen.io/andornagy/pen/gaGBZz
+https://www.w3schools.com/bootstrap/bootstrap_collapse.asp
+https://www.w3schools.com/howto/howto_js_collapsible.asp
+https://www.w3schools.com/howto/howto_js_accordion.asp
+https://www.w3schools.com/bootstrap/bootstrap_ref_js_collapse.asp
+https://www.jqueryscript.net/demo/Folding-Tree-Structures-jQuery-file-explore/#link5
+https://www.w3schools.com/howto/howto_js_collapsible.asp
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_symbol
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_animate
+
+
+
+
+
+
+
+
